@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/funnythingfunnylove-mcp-server-v2ex-badge.png)](https://mseep.ai/app/funnythingfunnylove-mcp-server-v2ex)
+
 # Mcp-server-v2ex
 
 ## Description
